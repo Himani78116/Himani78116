@@ -9,6 +9,7 @@ I'm a first year student exploring tech for solving real world problems.
     <br />
   </div>
 </p>
+
 ### Web/Backend ###
 <p align="left">
   <div>
@@ -16,6 +17,7 @@ I'm a first year student exploring tech for solving real world problems.
     <br />
   </div>
 </p>
+
 ### Tools ###
 <p align="left">
   <div>
