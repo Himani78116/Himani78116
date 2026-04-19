@@ -1,5 +1,4 @@
-Hello, I'm Himani ! 
-I'm a first year student exploring tech for solving real world problems.
+Hello, I'm Himani, a first year student exploring tech for solving real world problems.
 
 ## Skills: ##
  ### Languages ###
