@@ -1,5 +1,5 @@
-Hello, I'm Himani !  
-A student exploring tech for solving real world problems.
+# Hello, I'm Himani !  
+I'm a full-stack developer, open source contributor and an AI Enthusiast. 
 
 ## Skills: ##
  ### Languages ###
